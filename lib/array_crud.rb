@@ -3,7 +3,7 @@ def create_an_empty_array
 end
 
 def create_an_array
-  the_bro_philosophers = ["Descartes", "Kant", "Schleiermacher", ]
+  the_bro_philosophers = ["Descartes", "Kant", "Schleiermacher", "Kierkegaard"]
   
 end
 
